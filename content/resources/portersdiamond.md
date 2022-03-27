@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: df4777e7-8eaa-e00d-d924-67dd236eddc2
 resourcetype: Document
 title: The Complete System
 uid: 07ce73b8-0dab-7625-c710-6e17e0f9a0d0

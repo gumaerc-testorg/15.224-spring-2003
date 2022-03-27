@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e94fc534-5aec-f6b1-501d-33d67ddd85f5
 resourcetype: Document
 title: "Liberal Market Economies \u2013 The United States"
 uid: 41ba4aaa-169a-188b-4319-29b287e66654

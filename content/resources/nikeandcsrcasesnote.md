@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: e94fc534-5aec-f6b1-501d-33d67ddd85f5
 resourcetype: Document
 title: 'Nike & Corporate Social Responsibility '
 uid: 9cbc5ef8-0e50-4b69-9851-400d0cbd9a09
