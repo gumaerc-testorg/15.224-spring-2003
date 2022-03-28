@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: e94fc534-5aec-f6b1-501d-33d67ddd85f5
 ---
@@ -27,7 +28,7 @@ Files
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Gerber Case Notes ([PDF]({{< baseurl >}}/resources/gerbercasenoteslect))
+Gerber Case Notes ({{< resource_link 6250d1c6-800e-1e0f-71df-6820c21e78c0 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +37,7 @@ Gerber Case Notes ([PDF]({{< baseurl >}}/resources/gerbercasenoteslect))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Analog Devices Case Notes ([PDF]({{< baseurl >}}/resources/analogdevicecasenot))
+Analog Devices Case Notes ({{< resource_link 41ba4aaa-169a-188b-4319-29b287e66654 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +46,7 @@ Analog Devices Case Notes ([PDF]({{< baseurl >}}/resources/analogdevicecasenot))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Analog Devices Case Notes ([PDF]({{< baseurl >}}/resources/daewoocasenoteslect))
+Analog Devices Case Notes ({{< resource_link 24bd78e5-0c0f-478e-5d79-e5790465adb3 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +55,7 @@ Analog Devices Case Notes ([PDF]({{< baseurl >}}/resources/daewoocasenoteslect))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Analog Devices Case Notes ([PDF]({{< baseurl >}}/resources/nikeandcsrcasesnote))
+Analog Devices Case Notes ({{< resource_link 9cbc5ef8-0e50-4b69-9851-400d0cbd9a09 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
