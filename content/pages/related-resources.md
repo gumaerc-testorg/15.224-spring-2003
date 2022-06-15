@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section provides links to USAID's Development Experience Clearinghouse
+  and the National Journal.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Related Resources
 uid: dae0179f-df64-c31a-6d55-f526424ec70e
 ---
