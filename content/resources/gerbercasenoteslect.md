@@ -5,6 +5,7 @@ file: /courses/15-224-global-markets-national-politics-and-the-competitive-advan
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Gerber Case
 uid: 6250d1c6-800e-1e0f-71df-6820c21e78c0
 ---
 Case notes on Gerber Products Company's investment in Poland.
-
