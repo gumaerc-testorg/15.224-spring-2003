@@ -3,6 +3,7 @@ content_type: resource
 description: This note on Analyzing Business Environments provides a framework for
   students as they analyze different business environments around the world.
 file: /courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/2e8d778caea77a2d17510961164806d6_analyzingbusinessen.pdf
+file_size: 69806
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
