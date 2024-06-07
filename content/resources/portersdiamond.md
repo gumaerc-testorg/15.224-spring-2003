@@ -2,6 +2,7 @@
 content_type: resource
 description: Michael Porter's Diamond diagram.
 file: /courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/07ce73b80dab7625c7106e17e0f9a0d0_portersdiamond.pdf
+file_size: 91013
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

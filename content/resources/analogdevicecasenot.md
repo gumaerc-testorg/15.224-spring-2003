@@ -2,6 +2,7 @@
 content_type: resource
 description: Case notes on a study of problems of the US economy in the late 1980's.
 file: /courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/41ba4aaa169a188b431929b287e66654_analogdevicecasenot.pdf
+file_size: 94583
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
