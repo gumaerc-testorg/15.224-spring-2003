@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Case notes on Gerber Products Company's investment in Poland.
-file: /ol-ocw-studio-app/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/6250d1c6800e1e0f71df6820c21e78c0_gerbercasenoteslect.pdf
+file: /courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/6250d1c6800e1e0f71df6820c21e78c0_gerbercasenoteslect.pdf
 file_size: 54907
 file_type: application/pdf
 learning_resource_types:
