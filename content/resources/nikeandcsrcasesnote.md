@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Case notes on Nike  and corporate social responsibility.
-file: /courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/9cbc5ef80e504b699851400d0cbd9a09_nikeandcsrcasesnote.pdf
+file: /ol-ocw-studio-app/courses/15-224-global-markets-national-politics-and-the-competitive-advantage-of-firms-spring-2003/9cbc5ef80e504b699851400d0cbd9a09_nikeandcsrcasesnote.pdf
 file_size: 80329
 file_type: application/pdf
 learning_resource_types:
