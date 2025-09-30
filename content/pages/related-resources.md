@@ -11,6 +11,6 @@ uid: dae0179f-df64-c31a-6d55-f526424ec70e
 Useful Links
 ------------
 
-[Development Experience Clearinghouse](https://dec.usaid.gov/)
+{{% resource_link "a1288e6b-9c67-4c6d-8d0c-547d43380503" "Development Experience Clearinghouse" %}}
 
-[National Journal Group's Policy Central](http://www.nationaljournal.com/)
+{{% resource_link "ef505ad6-3392-4abd-b4aa-e5ff8744b762" "National Journal Group's Policy Central" %}}
